@@ -25,4 +25,8 @@ To run this project, you will need to create a virtual environment and install t
 - PIL (Pillow)
 Or download the zip file called "executable" and start the program using the .exe.
 
-## Prints of the Running Program ##
+## 📷 Prints of the Running Program ##
+
+<img src="/img/interface.png">
+
+(Video and gifs in progress...)
