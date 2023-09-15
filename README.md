@@ -23,7 +23,6 @@ To run this project, you will need to create a virtual environment and install t
 - tkinter
 - customtkinter
 - PIL (Pillow)
-Or download the zip file called "executable" and start the program using the .exe.
 
 ## 📷 Prints of the Running Program ##
 
