@@ -24,8 +24,3 @@ To run this project, you will need to create a virtual environment and install t
 - customtkinter
 - PIL (Pillow)
 
-## 📷 Prints of the Running Program ##
-
-<img src="/img/interface.png">
-
-(Video and gifs in progress...)
