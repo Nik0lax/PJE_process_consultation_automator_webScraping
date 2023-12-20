@@ -1,26 +1,26 @@
-# PJE Process Consultation Automator TR1 Federal (Python Web Scraping)
+# Automatizador de Consulta de Processos PJE TR1 Federal (Python Web Scraping)
 
-Project created using only the Python language and the Selenium, OpenPyXl, Os, Tkinter and CustomTkinter libraries.
+Projeto criado utilizando apenas a linguagem Python e as bibliotecas Selenium, OpenPyXl, Os, Tkinter e CustomTkinter.
 
-**Summary**: The Web Scraping method was used to access the government website PJE (Electronic Judicial Process) of TR1 (Regional Court 1) and extract all data from each Process in which a lawyer worked in this Court. After extraction, the data is formatted and inserted into an xlsx file and made available on the user's desktop.
+**Resumo**: O método de Web Scraping foi utilizado para acessar o site governamental PJE (Processo Judicial Eletrônico) do TR1 (Tribunal Regional 1) e extrair todos os dados de cada processo em que um advogado trabalhou neste tribunal. Após a extração, os dados são formatados e inseridos em um arquivo xlsx, ficando disponíveis na área de trabalho do usuário.
 
-Furthermore, a Graphical Interface was developed, where the user can enter the data used for the query: The OAB number (Brazilian Lawyer Identification) and the acronym of the State in which they work.
+Além disso, foi desenvolvida uma Interface Gráfica, onde o usuário pode inserir os dados utilizados para a consulta: O número da OAB (Identificação do Advogado Brasileiro) e a sigla do estado em que trabalham.
 
-All data used is public knowledge and does not violate the LGPD.
+Todos os dados utilizados são de conhecimento público e não violam a LGPD.
 
-## 📄 Reference
+## 📄 Referência
 
-- [Documentation CustomTkinter](https://pypi.org/project/customtkinter/0.3/)
-- [Documentation OpenPyXl](https://openpyxl.readthedocs.io/en/stable/)
-- [Documentation Selenium](https://www.selenium.dev/pt-br/documentation/webdriver/getting_started/)
-- [Website PJE TR1](https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam)
-- [Website OAB (To acquire a lawyer's ID)](https://cna.oab.org.br/)
+- [Documentação CustomTkinter](https://pypi.org/project/customtkinter/0.3/)
+- [Documentação OpenPyXl](https://openpyxl.readthedocs.io/en/stable/)
+- [Documentação Selenium](https://www.selenium.dev/pt-br/documentation/webdriver/getting_started/)
+- [Site PJE TR1](https://pje1g.trf1.jus.br/consultapublica/ConsultaPublica/listView.seam)
+- [Site OAB (Para adquirir a identificação de um advogado)](https://cna.oab.org.br/)
   
-## 🛠️ Requirements
-To run this project, you will need to create a virtual environment and install the dependencies:
-- selenium
-- openpyxl
-- tkinter
-- customtkinter
-- PIL (Pillow)
+## 🛠️ Requisitos
+Para executar este projeto, será necessário criar um ambiente virtual e instalar as dependências:
 
+selenium
+openpyxl
+tkinter
+customtkinter
+PIL (Pillow)
